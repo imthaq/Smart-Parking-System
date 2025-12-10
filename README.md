@@ -1,6 +1,5 @@
 # 🚗 Smart Parking System (Autonomous & IoT-Enabled)
-![IMG_3097](https://github.com/user-attachments/assets/1533d84b-1dbd-4c8f-a800-0d60b3453bdb)
-
+<img width="1562" height="2048" alt="IMG_3098" src="https://github.com/user-attachments/assets/3e02be74-0aee-4d06-b04a-b530bff81219" />
 
 **A "Programming for Artificial Intelligence" Final Project**
 
@@ -42,6 +41,5 @@ A huge thank you to our instructors for their guidance, mentorship, and for push
 
 * **Miss Mariam Bint Imran**
 * **Sir Ali Hamza**
-
 ---
 *Built for the Programming for Artificial Intelligence Final Project.*
