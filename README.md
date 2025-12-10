@@ -1,6 +1,6 @@
 # 🚗 Smart Parking System (Autonomous & IoT-Enabled)
 <p align="center">
-  <img src="[IMG_3098.PN](https://github.com/user-attachments/assets/9ffb4b7d-556e-477e-b67a-8fa22ab14821)G" width="300" title="Smart Parking System Prototype">
+  <img width="300" height="400" alt="IMG_3098" src="https://github.com/user-attachments/assets/53552802-7ce1-4d70-b8bb-18aa9888b671" />
 </p>
 
 **A "Programming for Artificial Intelligence" Final Project**
