@@ -1,4 +1,5 @@
 # 🚗 Smart Parking System (Autonomous & IoT-Enabled)
+![WhatsApp Image 2025-12-10 at 5 33 57 PM](https://github.com/user-attachments/assets/e21040ad-ffa1-4130-9878-d68189925953)
 
 **A "Programming for Artificial Intelligence" Final Project**
 
